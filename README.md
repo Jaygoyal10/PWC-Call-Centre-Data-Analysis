@@ -42,6 +42,7 @@ Speed of answer(in seconds)     ----------------      How quick customers are re
 Talk Duration(in minutes)       ----------------      Calling time
 
 Satisfaction rating             ---------------       After call how much customer satisfied with the caller i.e. 1-5
+
 ------------------------------------------------------------------------------------------------------
 
 
